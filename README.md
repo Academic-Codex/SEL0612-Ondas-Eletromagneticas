@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0612-Ondas-Eletromagneticas">
-    <img src=".github/readme/hero.svg?v=2026-01-06T14:28:17.909154Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T14:34:22.791437Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
