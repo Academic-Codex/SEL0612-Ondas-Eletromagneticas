@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SEL0612-Ondas-Eletromagneticas">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:37.237594Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SEL0612-Ondas-Eletromagneticas?utm_source=SEL0612-Ondas-Eletromagneticas&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:43.591037Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
